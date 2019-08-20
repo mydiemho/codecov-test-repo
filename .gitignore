@@ -69,3 +69,7 @@ typings/
 
 # OSX
 .DS_Store
+
+
+# testing
+upload.sh
